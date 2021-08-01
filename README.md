@@ -1,2 +1,1 @@
-# calculo-faixa-de-preco
-teste preço caro/barato
+# Criei esse Repositorio para realização dos exercicios do livro "Python para Mercado Financeiro", então basicamente vc so vai ver codigos que sao alem de exercicios, exemplos para me ajudar a lembrar e adaptar novas estrategias futuramente... working it.
